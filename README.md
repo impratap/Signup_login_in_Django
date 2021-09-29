@@ -4,6 +4,18 @@ It is a Django project for login, signup, and log-out. For this project, I have 
 
 Aim: Aim of this project is to create a login and log-out application for user authentication so that users can register and authenticate themselves while using the application.
 
+## BUilt In
+
+* Python Django
+* Html
+* Css
+
+## Key Feature
+
+* User Authentication
+* Crispy forms
+* Bootstrap
+
 Home Page
 
 ![How to record your screen in Windows 10 _ Laptop Mag - Google Chrome 12-09-2021 1 31 50 PM (2)](https://user-images.githubusercontent.com/33418077/132981892-d936b083-c5c4-442b-a24b-2c007bf1019f.png)
